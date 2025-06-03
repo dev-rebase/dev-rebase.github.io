@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Docusaurus build outputs
+build/
+.docusaurus/
+
+# Lock files
+package-lock.json
+bun.lockb
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Static assets (if you don't want to format them)
+# static/
