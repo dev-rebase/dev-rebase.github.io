@@ -1,0 +1,7 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+This project is a content-driven documentation website built with Docusaurus. It serves as a technical roadmap for developers in Syria, offering curated guidance across various domains of software development. The site includes structured pages on key topics such as web development, data structures, DevOps, system design, and more. Each topic features resource links, learning paths, and contextual explanations tailored to the local challenges and opportunities of Syrian developers. The goal is to create an accessible, evolving reference for anyone seeking to grow as a developer under constrained circumstances.
+
