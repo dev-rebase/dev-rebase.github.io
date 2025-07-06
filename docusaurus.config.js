@@ -20,15 +20,19 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://ghanem-mhd.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/dev-rebase/',
+
+  // GitHub Pages adds a trailing slash to Docusaurus URLs by default.
+  // It is recommended to set a "trailingSlash" config to avoid problems.
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ghanem-mhd', // Usually your GitHub org/user name.
+  projectName: 'dev-rebase', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
