@@ -62,7 +62,7 @@ For example, a trace for an online food order might look like this:
 - **Span D: Order service creates the order (child of Span B).**
 - **Span E: Database query to save the order (child of Span D).**
 
-If the order process is slow, the trace will visually show which span took the most time, immediately telling you whether to investigate the mobile app's UI thread, a specific microservice, or the database.
+If the order process is slow, the trace will visually show which span took the most time, immediately telling you whether to investigate the mobile app's UI thread, a specific micro-service, or the database.
 
 ### Instrumentation
 
@@ -79,7 +79,7 @@ OpenTelemetry (OTel) has become the industry standard for instrumentation. It's 
 
 Observability isn’t just about having dashboards; it’s about taking action when something goes wrong. **Alerting** is the process of automatically notifying the team when a metric crosses a critical threshold. This isn't just for the backend. An alert could be "CPU utilization is above 90%" or "Crash-free user rate for the new iOS version has dropped below 99.5%."
 
-When an alert fires, it triggers an **incident**. As a developer, you will likely be part of the response team, especially if the issue is related to a service or application you own—be it a microservice, a mobile app, or a web front-end.
+When an alert fires, it triggers an **incident**. As a developer, you will likely be part of the response team, especially if the issue is related to a service or application you own—be it a micro-service, a mobile app, or a web front-end.
 
 The goal of incident response is to restore service as quickly as possible. Afterward, the team conducts a "blameless retrospective" to understand the root cause and prevent the issue from recurring. Your insights, informed by data from across the full stack, are invaluable in this process.
 

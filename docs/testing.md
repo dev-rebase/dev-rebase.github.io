@@ -34,7 +34,7 @@ As a developer, you are expected to:
 
 ### Integration Tests
 
-The code you write doesn't operate in isolation—it interacts with databases, caches, APIs, and other services. **Integration tests** make sure these interactions behave correctly and as expected. An integration test checks how multiple parts of your system work together. For example, does your API endpoint fetch data from the database and return it properly? Does your service call another microservice and handle its response as intended?
+The code you write doesn't operate in isolation—it interacts with databases, caches, APIs, and other services. **Integration tests** make sure these interactions behave correctly and as expected. An integration test checks how multiple parts of your system work together. For example, does your API endpoint fetch data from the database and return it properly? Does your service call another micro-service and handle its response as intended?
 
 As a developer, you are expected to:
 
