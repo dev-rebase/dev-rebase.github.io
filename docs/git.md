@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Git
 
 You've written some great code and saved the file. Maybe you even zipped the project folder and named it project-final-v2-really-final.zip as a backup. Your work is safe and you're ready to share it with the team, right? Not quite. That old habit of manually managing versions is a recipe for confusion and lost work in any professional team.

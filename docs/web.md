@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # Web
 
 ## Why it matters

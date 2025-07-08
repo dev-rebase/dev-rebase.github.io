@@ -1,7 +1,3 @@
----
-sidebar_position: 4
----
-
 # CI/CD
 
 You’ve merged your pull request, tests are green, and everything looks good locally. Time to relax and move on? Not quite. In modern development, merging code is just the start. Your changes now enter the CI/CD pipeline—a set of automated steps that move code from your machine to production. Teams expect more than clean code; they expect you to understand and take ownership of the full lifecycle. CI/CD isn’t just jargon—it’s the core engine of DevOps, enabling fast, reliable delivery through automation and best practices.

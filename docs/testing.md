@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Testing
 
 You’ve implemented the feature and tested it manually. Now you’re ready to move on to the next task—right? Not quite. The old idea of a developer writing code and tossing it over to QA is outdated. In today’s agile environments, you're expected to be the first and most important line of defense for code quality. It’s no longer enough for your code to "just work on your machine." To grow as a developer, you need to treat testing as a core part of your workflow—not an afterthought. Here’s what modern teams typically expect from you when it comes to testing.

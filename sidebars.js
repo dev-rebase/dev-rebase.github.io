@@ -47,7 +47,7 @@ const sidebars = {
       label: "Learning from Others",
       items: [
         'mentorship',
-        'career-development-communities',
+        'global-communities',
       ],
     }
   ],
