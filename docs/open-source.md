@@ -4,7 +4,7 @@ Contributing to open source is one of the best ways to grow as a developer, buil
 
 ## Why it matters
 
-Open source contributions are more than just free work—they are investments in your professional development and career growth. Today, employers care more about practical experience than just certificates. Your open source contributions work like a public portfolio of your skills, work habits, and ability to work with others.
+Open source contributions are more than just free work—they are ways to improve your skills and career growth. Today, employers care more about real experience than just certificates. Your open source contributions work like a public portfolio of your skills, work habits, and ability to work with others.
 
 Here's why open source contributions help your career grow faster:
 
@@ -33,8 +33,8 @@ Not all open source projects are good for beginners. Look for projects that welc
 Start with tools and libraries you already use in your work or personal projects. You understand the problems they solve and can spot areas for improvement. You can also use these resources to discover more projects:
 
 - **[GitHub Explore](https://github.com/explore)** — Discover trending projects and filter by language or topic.
-- **[Good First Issues](https://goodfirstissues.com/)** — Aggregates issues labeled "good first issue" from many repositories.
-- **[Up For Grabs](https://up-for-grabs.net)** — Curated list of beginner-friendly projects organized by programming language.
+- **[Good First Issues](https://goodfirstissues.com/)** — Collects issues labeled "good first issue" from many repositories.
+- **[Up For Grabs](https://up-for-grabs.net)** — Selected list of beginner-friendly projects organized by programming language.
 - **[First Timers Only](https://www.firsttimersonly.com/)** — Resources and projects specifically for first-time contributors.
 - **[Awesome Arabic Speakers](https://awesome-arabic-speakers.dev/tags/code/)** — Projects by Syrian and Arabic-speaking developers for easier communication and local context understanding.
 
@@ -54,18 +54,18 @@ Every project has its own way of doing things. Successful contributors learn and
 - Follow the project's commit message format.
 - Write clear, descriptive pull request descriptions.
 - Include tests if the project requires them.
-- Be responsive to feedback and requests for changes.
+- Respond to feedback and requests for changes.
 
 ### Build Good Relationships
 
-Open source is about community, not just code. Building relationships with maintainers and other contributors is just as important as the technical contributions. Because open source work often happens asynchronously and across different time zones, communication can feel a bit different than in a traditional team. Pay extra attention to how you express yourself in written messages, be clear and respectful, and remember that patience and understanding are key when working with people you may never meet in person.
+Open source is about community, not just code. Building relationships with maintainers and other contributors is just as important as the technical contributions. Because open source work often happens at different times and across different time zones, communication can feel a bit different than in a traditional team. Pay extra attention to how you express yourself in written messages, be clear and respectful, and remember that patience and understanding are key when working with people you may never meet in person.
 
 **Key practices to help you engage positively and productively:**
 
 - Be patient when waiting for reviews—maintainers are often volunteers.
 - Ask questions when you don't understand something.
 - Offer help to other contributors when you can.
-- Participate in project discussions and decisions.
+- Join project discussions and decisions.
 - Write clear, simple issues and pull request descriptions.
 - Be specific about problems and proposed solutions.
 

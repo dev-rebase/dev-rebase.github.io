@@ -18,15 +18,15 @@ Simply put, mentorship gives you years of experience in focused advice that fits
 
 ## Where to find mentors
 
-While there are many global platforms that connect developers with mentors worldwide, the Syrian tech community has built something special—dedicated initiatives created by Syrian developers who understand our unique challenges and opportunities. These platforms don't just offer mentorship; they provide a bridge between Syrian talent and the global tech ecosystem. What makes these initiatives unique is that they're built by Syrian developers who have navigated the same challenges you're facing, and they're completely free to use.
+While there are many global platforms that connect developers with mentors worldwide, the Syrian tech community has built something special—special programs created by Syrian developers who understand our unique challenges and opportunities. These platforms don't just offer mentorship; they provide a bridge between Syrian talent and the global tech ecosystem. What makes these programs unique is that they're built by Syrian developers who have faced the same challenges you're facing, and they're completely free to use.
 
 ### [Mentory](https://mentory-sy.net/)
 
-Created by Syrian developers to connect Syrian developers with experienced mentors around the world. The platform offers different types of mentorship including technical guidance, career advice, academic support, and startup mentoring. With over 169 expert mentors from 27 countries, you can find someone who understands both your technical needs and cultural context. The mentors are Syrian professionals working at major tech companies globally, bringing real-world experience from international markets while understanding the Syrian context.
+Created by Syrian developers to connect Syrian developers with experienced mentors around the world. The platform offers different types of mentorship including technical guidance, career advice, academic support, and startup mentoring. With over 169 expert mentors from 27 countries, you can find someone who understands both your technical needs and cultural background. The mentors are Syrian professionals working at major tech companies globally, bringing real-world experience from international markets while understanding the Syrian context.
 
 ### [ProHelpify (P8Y)](https://prohelpify.com/en)
 
-Another Syrian-led initiative that offers free consultation sessions with software experts. Their mentors work at companies like Meta, Tradinos, and other major tech organizations, providing insights into both local and international opportunities. The platform covers everything from interview preparation to career planning, with a focus on helping Syrian developers transition into global tech roles.
+Another Syrian-led program that offers free consultation sessions with software experts. Their mentors work at companies like Meta, Tradinos, and other major tech organizations, providing insights into both local and international opportunities. The platform covers everything from interview preparation to career planning, with a focus on helping Syrian developers move into global tech jobs.
 
 ## How to be a good mentee
 
@@ -42,23 +42,23 @@ Show respect for your mentor's time by making every conversation useful and prod
 
 ### Be Consistent and Reliable
 
-Building a strong mentorship relationship needs consistency and follow-through. Treat your mentorship commitments as seriously as you would any work commitment.
+Building a strong mentorship relationship needs consistency and following through. Treat your mentorship promises as seriously as you would any work promise.
 
-- **Keep your commitments**: If you schedule regular check-ins, show up prepared and on time
+- **Keep your promises**: If you schedule regular check-ins, show up prepared and on time
 - **Do what your mentor suggests**: Actually try the suggestions your mentor gives you, and tell them how it went
 - **Communicate early**: If you can't make a meeting or need to change the schedule, tell them in advance
 
 ### Listen Well and Ask Follow-Up Questions
 
-Mentorship conversations are most valuable when you really engage with the advice you get. Don't just collect advice—understand the thinking behind it.
+Mentorship conversations are most valuable when you really work with the advice you get. Don't just collect advice—understand the thinking behind it.
 
 - **Ask "why" questions**: Understanding the reasons behind recommendations helps you use similar thinking in new situations.
 - **Ask for clarification**: If something isn't clear, ask for examples or different explanations.
-- **Take notes**: Write down key insights and action items so you can look back at them later.
+- **Take notes**: Write down key ideas and action items so you can look back at them later.
 
 ### Share Your Progress and Problems
 
-Keep your mentor informed about your development, including both successes and struggles. This helps them give you better guidance and adjust their approach as needed.
+Keep your mentor informed about your development, including both successes and struggles. This helps them give you better guidance and change their approach as needed.
 
 - **Share your wins**: Tell them about accomplishments that came from their guidance
 - **Be honest about difficulties**: If you're struggling with something they recommended, explain what's not working
@@ -66,8 +66,8 @@ Keep your mentor informed about your development, including both successes and s
 
 ### Give Back When You Can
 
-Mentorship doesn't have to be a one-way relationship. Look for ways to provide value back to your mentor and the broader community.
+Mentorship doesn't have to be a one-way relationship. Look for ways to provide value back to your mentor and the wider community.
 
 - **Share useful resources**: If you find articles, tools, or opportunities that might interest your mentor, share them.
-- **Offer your skills**: You might be able to help with a project, give feedback on something they're working on, or share insights from your unique perspective.
+- **Offer your skills**: You might be able to help with a project, give feedback on something they're working on, or share ideas from your unique perspective.
 - **Help others**: As you grow, look for opportunities to help other developers who are earlier in their journey.

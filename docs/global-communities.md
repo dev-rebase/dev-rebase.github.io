@@ -1,6 +1,6 @@
 # Global Communities
 
-Building a successful tech career is not just about your technical skills—it's about connecting with the right communities that can guide you, support you, and open doors to opportunities you might never find on your own. By joining global tech communities, you gain access to resources that can help you grow professionally, find international opportunities, and connect with others who share similar experiences and ambitions.
+Building a successful tech career is not just about your technical skills—it's about connecting with the right communities that can guide you, support you, and open doors to opportunities you might never find on your own. By joining global tech communities, you gain access to resources that can help you grow professionally, find international opportunities, and connect with others who share similar experiences and goals.
 
 ## Why it matters
 
@@ -18,7 +18,7 @@ Here's why joining global tech communities helps your career:
 
 ### [Imagine Foundation](https://www.joinimagine.com/)
 
-Imagine Foundation helps software engineers, data scientists, and product managers find tech jobs in Europe and other countries. What makes Imagine special is their personal approach—they don't just give generic advice, but work with you individually to improve your chances of success.
+Imagine Foundation helps software engineers, data scientists, and product managers find tech jobs in Europe and other countries. What makes Imagine special is their personal approach—they don't just give general advice, but work with you individually to improve your chances of success.
 
 **What they offer:**
 
@@ -79,6 +79,6 @@ Reddit has some of the most active and helpful career discussion communities for
 
 - **Read the rules**: Each subreddit has specific rules for posting.
 - **Search first**: Your question might already be answered in previous posts.
-- **Be specific**: Generic questions get generic answers.
+- **Be specific**: General questions get general answers.
 - **Give context**: Share your background, location, and specific situation.
 - **Help others**: Answer questions in areas where you have experience.

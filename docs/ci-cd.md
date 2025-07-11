@@ -1,6 +1,6 @@
 # CI/CD
 
-You know about CI/CD pipelines, but your current team does manual deployments. One person runs tests, builds the app, and pushes to production. It's slow but manageable for your small team. But as teams grow and deployment frequency increases, manual processes become unsustainable and error-prone. You realize that while manual deployments work for small teams, most professional environments expect automated pipelines. It's time to embrace CI/CD.
+You know about CI/CD pipelines, but your current team does manual deployments. One person runs tests, builds the app, and pushes to production. It's slow but manageable for your small team. But as teams grow and deployment frequency increases, manual processes become too difficult and lead to mistakes. You realize that while manual deployments work for small teams, most professional environments expect automated pipelines. It's time to embrace CI/CD.
 
 - **Continuous Integration (CI):** The practice of regularly merging code changes into a shared repository, typically the main branch. Each merge triggers an automated build and test process to identify integration issues early.
 
@@ -16,28 +16,28 @@ Owning your part in CI/CD isn't just about following company processes — it di
 - **Less Risk, Less Stress:** Automated deployments take the pressure off "release day" and remove the chance of last-minute mistakes.
 - **Real Ownership:** With the "you build it, you run it" mindset, you get to see how your code behaves in the real world — and you gain more control over the quality of what you deliver.
 
-CI/CD isn’t a box to check. It’s a workflow that helps you and your team build and ship better software, faster. The more you understand your role in it, the more confident and capable you become.
+CI/CD isn't a box to check. It's a workflow that helps you and your team build and ship better software, faster. The more you understand your role in it, the more confident and capable you become.
 
-## What’s expected from you
+## What's expected from you
 
 ### Continuous Integration (CI)
 
 This is where you have the most direct impact. Your main goal is to ensure the `main` branch is always stable and green.
 
 - **Fixing the Build is Priority #1:** If your commit breaks the build in the `main` branch, you have broken it for _everyone_. Drop what you're doing. Fixing the build is now your most important task. A broken pipeline blocks the entire team from delivering value.
-- **Your Tests are the Pipeline's Backbone:** The pipeline relies entirely on your unit and integration tests to validate your changes. If your tests are flaky or incomplete, the pipeline provides a false sense of security. Quality tests are a prerequisite for effective CI.
-- **Commit Small and Often:** Large, monolithic pull requests are a nightmare for CI. They are difficult to review, and if they break the build, it's hard to pinpoint the cause. Small, atomic commits that represent a single logical change make the process smoother and debugging easier.
+- **Your Tests are the Pipeline's Backbone:** The pipeline relies entirely on your unit and integration tests to validate your changes. If your tests are unreliable or incomplete, the pipeline provides a false sense of security. Quality tests are a requirement for effective CI.
+- **Commit Small and Often:** Large pull requests are a nightmare for CI. They are difficult to review, and if they break the build, it's hard to find the cause. Small commits that represent a single logical change make the process smoother and debugging easier.
 - **Understand Your Service's Build Process:** You don't need to be an expert, but you should understand how your application is built, tested, and packaged. Know where your dependencies are defined (`pom.xml`, `package.json`) and how to run the build script locally to diagnose issues.
 
 ### Continuous Delivery/Deployment (CD)
 
 Your responsibility extends beyond just passing tests. You need to write code that can be deployed and operated safely and automatically.
 
-- **Embrace Feature Flags:** Feature flags (or feature toggles) allow you to deploy code to production without releasing it to users. This decouples deployment from release, dramatically lowering the risk of a new feature causing an outage. Merging dark code is a standard, expected practice.
+- **Embrace Feature Flags:** Feature flags (or feature toggles) allow you to deploy code to production without releasing it to users. This separates deployment from release, greatly reducing the risk of a new feature causing an outage. Merging dark code is a standard, expected practice.
 - **Build for Observability:** Once your code is in production, how do you know it's working? You must instrument your code. This means:
-  - **Structured Logging:** Write logs that are machine-readable (e.g., JSON) and contain useful context.
+  - **Structured Logging:** Write logs that are machine-readable (like JSON) and contain useful context.
   - **Metrics:** Expose key application metrics (like request latency, error rates, queue depth) so they can be monitored on dashboards.
-  - **Health Checks:** Your application must provide an endpoint (e.g., `/healthz`) that tells the deployment system whether it's healthy and ready to receive traffic.
+  - **Health Checks:** Your application must provide an endpoint (like `/healthz`) that tells the deployment system whether it's healthy and ready to receive traffic.
 
 ## Resources
 
