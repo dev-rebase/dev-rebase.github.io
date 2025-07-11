@@ -1,6 +1,6 @@
 # Git
 
-You've written some great code and saved the file. Maybe you even zipped the project folder and named it project-final-v2-really-final.zip as a backup. Your work is safe and you're ready to share it with the team, right? Not quite. That old habit of manually managing versions is a recipe for confusion and lost work in any professional team.
+You know Git exists, you've even used basic commands, but your current team is small and everyone just pushes to main. No branches, no pull requests, no complex workflows. It works fine for your current project. But the moment you join a larger team or work on a more complex project, proper Git workflows become essential for preventing chaos and maintaining code quality. You realize that while simple Git works for small teams, understanding proper Git workflows is essential for most professional development environments. It's time to master Git properly.
 
 ## Why it matters
 
@@ -76,3 +76,5 @@ Git is built for collaboration. These practices are key to working effectively w
 
 14. [Oh My Git!](https://ohmygit.org/)
 15. [Learn Git Branching](https://learngitbranching.js.org/)
+
+[Mastering Git](https://youtube.com/playlist?list=PLtxOBbrOOPH4zeJLOdRNrP4pGft2IfMgo&si=FUgSZpw76wrnNZbM)

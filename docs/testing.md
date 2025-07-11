@@ -1,6 +1,6 @@
 # Testing
 
-You’ve implemented the feature and tested it manually. Now you’re ready to move on to the next task—right? Not quite. The old idea of a developer writing code and tossing it over to QA is outdated. In today’s agile environments, you're expected to be the first and most important line of defense for code quality. It’s no longer enough for your code to "just work on your machine." To grow as a developer, you need to treat testing as a core part of your workflow—not an afterthought. Here’s what modern teams typically expect from you when it comes to testing.
+You've heard about unit tests, integration tests, and TDD, but your current company has a dedicated QA team that handles all testing. You write code, they test it, and that system works fine. But as applications grow more complex and teams move faster, relying solely on manual testing becomes a bottleneck that slows everyone down. You realize that while you can rely on QA teams in some companies, most modern development roles expect you to test your own code. It's time to start testing your own code.
 
 ## Why it matters
 
@@ -68,3 +68,4 @@ This cycle keeps your codebase backed by a reliable test suite. It also helps yo
 - **[🎥 يعني ايه Unit testing وليه كل الدفيلوبرز لازم يتعلموا يكتبوه - سيمي كولون | SemiColon](https://youtu.be/B9rLLcVQfpI?si=JJxWiYOWm16mjSsW)**
 - **[🎥 ازاي بنختبر السوفتوير؟ | Software Testing](https://youtu.be/9NcvjKX-ySk?si=KXwWbIqWQ945-pca)**
 - **[🎥 Software Testing Course in Arabic - بالعربي software testing شرح](https://youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4&si=CnLIMCcfRaxAWGb0)**
+- **[🎥 Mastering Unit Testing](https://youtube.com/playlist?list=PLtxOBbrOOPH6pNpU-I4TJ15DrwU-hxNIz&si=PdRxKHpzrr-X3iGq)**

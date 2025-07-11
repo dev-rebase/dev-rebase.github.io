@@ -1,5 +1,7 @@
 # Web
 
+You've always focused on writing good code—building beautiful components, creating smooth user experiences, or developing clean APIs. Your current job keeps things simple: you build features, someone else handles deployment, and if there are network issues, the backend team deals with them. But as you work on larger applications or collaborate with distributed teams, understanding how your code communicates over the network becomes crucial, regardless of whether you're frontend, mobile, or backend developers. You realize that while you can avoid learning about the web in some environments, you can't avoid it forever if you want to grow your career. It's time to learn how the web really works.
+
 ## Why it matters
 
 Whether you're building a mobile app, a complex backend system, or a beautiful frontend, you're working with the web. Understanding its fundamental principles is not just for "web developers"—it's for **every developer**. This knowledge helps you diagnose problems faster, build more efficient applications, and collaborate effectively with your team.

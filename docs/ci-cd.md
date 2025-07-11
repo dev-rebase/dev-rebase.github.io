@@ -1,6 +1,6 @@
 # CI/CD
 
-You’ve merged your pull request, tests are green, and everything looks good locally. Time to relax and move on? Not quite. In modern development, merging code is just the start. Your changes now enter the CI/CD pipeline—a set of automated steps that move code from your machine to production. Teams expect more than clean code; they expect you to understand and take ownership of the full lifecycle. CI/CD isn’t just jargon—it’s the core engine of DevOps, enabling fast, reliable delivery through automation and best practices.
+You know about CI/CD pipelines, but your current team does manual deployments. One person runs tests, builds the app, and pushes to production. It's slow but manageable for your small team. But as teams grow and deployment frequency increases, manual processes become unsustainable and error-prone. You realize that while manual deployments work for small teams, most professional environments expect automated pipelines. It's time to embrace CI/CD.
 
 - **Continuous Integration (CI):** The practice of regularly merging code changes into a shared repository, typically the main branch. Each merge triggers an automated build and test process to identify integration issues early.
 

@@ -1,6 +1,6 @@
 # Observability
 
-In modern software development, you don’t just build an application and hope it runs smoothly. You need to understand its internal state and behavior from the outside, across the entire stack—from a user's tap on a mobile screen to the deepest database query. This is observability. It’s not just about watching for errors (that’s monitoring); it’s about being able to ask questions about your system to understand why things are happening, especially in complex, distributed environments.
+You've heard about monitoring, logging, and metrics, but your current application is simple enough that you can usually figure out problems by looking at the code or asking users what went wrong. But as your application serves more users and becomes more complex, debugging production issues without proper observability becomes nearly impossible. You realize that while you can manage simple applications without observability, most professional environments require it. It's time to make your applications observable.
 
 ## Why it matters
 
