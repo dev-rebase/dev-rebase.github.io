@@ -9,11 +9,11 @@ slug: /
 
 Dev Rebase is a collection of short guides designed to help developers learn about modern software development practices. These guides cover essential topics that are commonly expected in today's tech industry, especially when working at international companies or applying for remote positions.
 
-## Why I created this website
+## Why I created this website?
 
 ### My personal journey
 
-As someone from Syria, I experienced firsthand how software development practices can vary significantly between different regions and markets. In my home country, the complexity and nature of many projects often meant that certain sophisticated practices weren't necessary - simply because the problems they solve didn't exist in our local context.
+I'm [Mohammad Ghanem](https://www.linkedin.com/in/ghanem-mhd/), a software engineer who moved from Syria to Germany. As someone from Syria, I experienced firsthand how software development practices can vary significantly between different regions and markets...
 
 This became very clear when I moved to Germany and started working at different companies. I quickly realized there were many practices and approaches that most companies expected me to know as a developer. I had to actively learn these topics to bridge the gap in my knowledge and meet industry standards.
 
@@ -39,6 +39,29 @@ If you can already program and build applications, but want to learn about indus
 ## How to use this guide?
 
 The topics are presented in an order that makes logical sense, but **you can read them in any order** that works for you. Each guide is designed to be self-contained, so feel free to jump to topics that interest you most or that you need to learn for your current work. At the end of each topic, there a list of resources in English and Arabic. These resources are not exhaustive and don't the topic in depth, but they are a good starting point to learn more.
+
+## What topics are covered?
+
+**Core Skills** - Essential technical skills that every developer needs to work effectively in modern development environments.
+
+- [Web Development](/web)
+- [Git](/git)
+- [Testing](/testing)
+
+**Deployment & Production** - Tools and practices for deploying applications and maintaining them in production environments.
+
+- [Containerization](/containerization)
+- [CI/CD](/ci-cd)
+- [Observability](/observability)
+
+**Learn by Doing** - Practical ways to apply your skills and build real-world experience while contributing to the developer community.
+
+- [Open Source](/open-source)
+
+**Learn from Others** - Resources for connecting with experienced developers and communities that can accelerate your growth.
+
+- [Mentorship](/mentorship)
+- [Global Communities](/global-communities)
 
 ## How to contribute?
 
