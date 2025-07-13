@@ -17,18 +17,18 @@ As a modern developer, you should be comfortable with the basic concepts of cont
 
 ### Docker
 
-While other containerization tools exist (like Podman), **Docker** has become the most popular industry standard. Its widespread adoption means you'll see it everywhere in tutorials, open-source projects, and job requirements. Learning Docker is your most important first step into the world of containers.
+While other containerization tools exist (like Podman), **[Docker](https://www.docker.com/)** has become the most popular industry standard. Its widespread adoption means you'll see it everywhere in tutorials, open-source projects, and job requirements. Learning Docker is your most important first step into the world of containers.
 
 - **Dockerfile**: This is a simple text file you create that acts as a blueprint for your container. It lists all the instructions needed to build your application's environment, such as specifying a base OS, copying your code, installing dependencies, and defining the startup command.
 - **Image and Container**: Using the `Dockerfile`, you build an **Image**, which is a small, independent, and runnable package. When you run an Image, it becomes a **Container**—an active, running version of your application.
 - **Core Commands**: You'll need to get comfortable with a few essential commands to build images from your Dockerfile, run containers from those images, and list which containers are currently active.
-- **Docker Compose**: For applications that require multiple services to run at once (like a backend API, a database, and a frontend), you will use **Docker Compose**. It lets you define and manage your entire multi-container application with a single YAML configuration file.
+- **Docker Compose**: For applications that require multiple services to run at once (like a backend API, a database, and a frontend), you will use **[Docker Compose](https://docs.docker.com/compose/)**. It lets you define and manage your entire multi-container application with a single YAML configuration file.
 
 ### Container Orchestration
 
 While building and running containers on your own machine is a skill for every developer, managing them in a live production environment is primarily a task for backend and DevOps engineers. However, understanding the core concepts of **container orchestration** is valuable for everyone on a development team. It helps you understand how your application will ultimately be deployed, scaled, and maintained.
 
-Orchestration tools become necessary when you move beyond running a few containers on a single machine. They solve the complex problem of managing maybe hundreds or thousands of containers across many servers. These tools automate the deployment, management, scaling, and networking of your applications. The most popular orchestration tool today is **Kubernetes (K8s)**. Kubernetes groups containers into logical units called **Pods** and manages their lifecycle automatically. It handles complex tasks like:
+Orchestration tools become necessary when you move beyond running a few containers on a single machine. They solve the complex problem of managing maybe hundreds or thousands of containers across many servers. These tools automate the deployment, management, scaling, and networking of your applications. The most popular orchestration tool today is **[Kubernetes (K8s)](https://kubernetes.io/)**. Kubernetes groups containers into logical units called **Pods** and manages their lifecycle automatically. It handles complex tasks like:
 
 - **Service Discovery & Load Balancing:** Distributing network traffic to ensure your application is stable.
 - **Automated Rollouts & Rollbacks:** Slowly deploying new versions of your app and rolling back if something goes wrong.
@@ -36,7 +36,7 @@ Orchestration tools become necessary when you move beyond running a few containe
 
 While you aren't expected to be a Kubernetes administrator, you should understand its basic concepts (like Pods, Services, and Deployments). This knowledge is important when working with cloud platforms like AWS, Google Cloud, or Azure, as they all offer managed Kubernetes services (EKS, GKE, AKS) that simplify its setup and operation.
 
-For simpler use cases, **Docker Swarm** is an easier-to-learn alternative that is built into Docker itself. It offers basic orchestration features and is a good first step before diving into the complexities of Kubernetes.
+For simpler use cases, **[Docker Swarm](https://docs.docker.com/engine/swarm/)** is an easier-to-learn alternative that is built into Docker itself. It offers basic orchestration features and is a good first step before diving into the complexities of Kubernetes.
 
 ## Resources
 
@@ -54,5 +54,6 @@ For simpler use cases, **Docker Swarm** is an easier-to-learn alternative that i
 - [🎥 قصة الكونتينر .. Container story](https://youtu.be/jPzJVH1ab-4?si=qr0UIRRSrld8RVnQ)
 - [🎥 Docker Crash Course - كورس Docker للمبتدئين](https://youtu.be/9yoe8dBvAZ0?si=TSTdBGCoqOob5ZIz)
 - [🎥Docker سلسلة تعلم - by Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&si=WzaUxanOe8awl1aZ)
+- [🎥 Kubernetes بالعربي](https://youtu.be/7gJFHjXscr8?si=JXHkVi82At4UO27q)
 - [🎥 Kubernetes 101](https://youtu.be/KYhcpHIrjtE?si=uKH9vL4M2NyToPsr)
 - **[📚 مقالات اقرأ-تك](https://eqraatech.com/tag/docker/)**

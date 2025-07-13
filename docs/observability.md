@@ -6,6 +6,8 @@ You've heard about monitoring, logging, and metrics, but your current applicatio
 
 Observability helps you move from being reactive to proactive. Instead of waiting for users to report a bug or for a system to crash, you can identify potential issues and slow parts before they impact the user experience. Imagine you've deployed a new feature for an e-commerce site. Suddenly, users are reporting that adding items to the cart is slow. Without observability, you'd be guessing the cause. Is it a slow front-end rendering component? A frozen UI thread in the mobile app? A network issue? A backend API? A database query?
 
+Observability is crucial for both application and infrastructure monitoring. While DevOps teams focus on infrastructure observability (servers, networks, databases), the focus here is on application-level observability which helps you understand how the application behaves in production.
+
 With good observability, you can look at the data your system is producing and find the exact part of the application, code, or infrastructure that is causing the slowdown. This practice is important for:
 
 - Faster Debugging: Quickly find the root cause of problems in production, reducing downtime and user frustration.
@@ -15,7 +17,7 @@ With good observability, you can look at the data your system is producing and f
 
 ## What is expected from you
 
-As a developer, you are at the heart of building observable systems. Your responsibility is to ensure that the application you write—whether it's front-end, back-end, or mobile—produces the necessary data, or "telemetry," that allows you and your team to understand its behavior. This telemetry is typically broken down into three main pillars: Metrics, Logs, and Traces.
+As a developer, you are at the heart of building observable systems. Your responsibility is to ensure that the application you write—whether it's front-end, back-end, or mobile—produces the necessary data, or ["telemetry"](https://www.logicmonitor.com/blog/what-is-telemetry) that allows you and your team to understand its behavior. This telemetry is typically broken down into three main pillars: Metrics, Logs, and Traces.
 
 ### Metrics
 
@@ -48,15 +50,13 @@ A structured log, on the other hand, would break this information down into key-
 
 A trace provides an end-to-end view of a request or user action as it travels through the different parts of your system. It allows you to see the entire journey, identify where slow parts occurred, and see how different services and components interact.
 
-Each step in the journey is called a **span**. A trace is a collection of spans that form a complete story. Importantly, this story often starts with the user.
+Each step in the journey is called a **span**. A trace is a collection of spans that form a complete story. For example, a trace for an online food order might look like this:
 
-For example, a trace for an online food order might look like this:
-
-- **Span A: User taps 'Place Order' in the mobile app.**
-- **Span B: The app makes an API request to the Gateway (child of Span A).**
-- **Span C: Authentication service validates the user (child of Span B).**
-- **Span D: Order service creates the order (child of Span B).**
-- **Span E: Database query to save the order (child of Span D).**
+- Span A: User taps 'Place Order' in the mobile app.
+- Span B: The app makes an API request to the Gateway (child of Span A).
+- Span C: Authentication service validates the user (child of Span B).
+- Span D: Order service creates the order (child of Span B).
+- Span E: Database query to save the order (child of Span D).
 
 If the order process is slow, the trace will visually show which span took the most time, immediately telling you whether to investigate the mobile app's UI thread, a specific micro-service, or the database.
 
@@ -66,10 +66,10 @@ Your application won't produce metrics, logs, and traces on its own. **Instrumen
 
 You can do this in two ways:
 
-1.  **Manual Instrumentation:** You explicitly write code to record specific events, like when a user adds an item to a cart or a complex algorithm completes.
-2.  **Automatic Instrumentation:** You use libraries that automatically wrap common frameworks (like HTTP servers, database clients, or front-end page loads and mobile app screen transitions) to generate telemetry for you.
+- **Manual Instrumentation:** You explicitly write code to record specific events, like when a user adds an item to a cart or a complex algorithm completes.
+- **Automatic Instrumentation:** You use libraries that automatically wrap common frameworks (like HTTP servers, database clients, or front-end page loads and mobile app screen transitions) to generate telemetry for you.
 
-OpenTelemetry (OTel) has become the industry standard for instrumentation. It's a vendor-neutral set of APIs and libraries that allows you to instrument your code once and send the data to any analysis tool (like Jaeger, Prometheus, or Datadog) without being locked to one vendor.
+[OpenTelemetry (OTel)](https://opentelemetry.io/) has become the industry standard for instrumentation. It's a vendor-neutral set of APIs and libraries that allows you to instrument your code once and send the data to any analysis tool (like [Jaeger](https://www.jaegertracing.io/), [Prometheus](https://prometheus.io/), or [Datadog](https://www.datadoghq.com/)) without being locked to one vendor.
 
 ### Alerting and Incident Response
 
@@ -79,12 +79,23 @@ When an alert fires, it triggers an **incident**. As a developer, you will likel
 
 The goal of incident response is to restore service as quickly as possible. Afterward, the team conducts a "blameless retrospective" to understand the root cause and prevent the issue from happening again. Your insights, informed by data from across the full stack, are very valuable in this process.
 
+## Observability Platforms
+
+While you can use separate tools for metrics, logs, and traces, many teams use observability platforms that combine everything in one place. These platforms make it easier to see the full picture of your application's health without jumping between different tools.
+
+**[Grafana](https://grafana.com/)** is a popular open-source platform that excels at creating dashboards and visualizations. You can connect it to different data sources like Prometheus for metrics, Elasticsearch for logs, and Jaeger for traces. Grafana also provides alerting features, so you can get notified when something goes wrong. Many developers start with Grafana because it's free and has a large community.
+
+**[Datadog](https://www.datadoghq.com/)** is a commercial platform that provides a complete observability solution. It can automatically collect metrics, logs, and traces from your applications with minimal setup. Datadog includes pre-built dashboards, intelligent alerting, and powerful search capabilities. While it costs money, it saves time because everything works together out of the box.
+
+Both platforms help you implement the observability concepts we discussed without having to manage multiple separate tools. They provide the dashboards to visualize your metrics, the search capabilities to explore your logs, and the tracing views to understand your application's behavior.
+
 ## Resources
 
 ### English Resources
 
 - [🎥 Observability vs. APM vs. Monitoring](https://youtu.be/CAQ_a2-9UOI?si=eGDon4VEACoVRnsz)
 - [🎥 Introduction to Observability - Course by Datadog](https://learn.datadoghq.com/courses/introduction-to-observability)
+- [🎥 Grafana for Beginners](https://youtube.com/playlist?list=PLDGkOdUX1Ujo27m6qiTPPCpFHVfyKq9jT&si=a9Y73o_tNq9nGkAR)
 - [📚 Getting Started with Metrics](https://learn.datadoghq.com/courses/getting-started-metrics)
 
 ### Arabic Resources
@@ -94,7 +105,3 @@ The goal of incident response is to restore service as quickly as possible. Afte
 - [🎥 Observability (بالعربي)](https://youtu.be/yMaSzA1Zohk?si=vja_e9Ft-OU_wFml)
 - [🎥 Introduction to observability (بالعربي)](https://youtu.be/YQreKGSTmdE?si=oL2vjsLDjGoB2mQg)
 - **[📚 مقالات اقرأ-تك](https://eqraatech.com/tag/monitoring/)**
-
-## Todo
-
-- Observability is crucial for both application and infrastructure. DevOps teams can detect and troubleshoot issues faster, ensuring higher reliability and stability.

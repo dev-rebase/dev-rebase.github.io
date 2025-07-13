@@ -55,17 +55,15 @@ This cycle keeps your codebase backed by a reliable test suite. It also helps yo
 
 ### English Resources
 
-- **[🎥 When To Use These 5 TOP Software Test Types](https://youtu.be/gnrBqLbj1_Q?si=ePC4t9_V6fb-oDpK)**
-- **[📚 Why Developers Don't Write Unit Tests](https://www.linkedin.com/pulse/why-developers-dont-write-unit-tests-justin-bannister/)**
-- **[📚 The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)**
-- **[📚 Rethinking the Testing Pyramid](https://www.wiremock.io/post/rethinking-the-testing-pyramid)**
-- **[📚 Test Driven Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html)**
-- **[🎥 TDD - Test Driven Development](https://youtube.com/playlist?list=PLwLLcwQlnXByqD3a13UPeT4SMhc3rdZ8q&si=R2UYFJaBbHzv0UFM)**
-- **[🎥 Acceptance Testing & BDD](https://youtube.com/playlist?list=PLwLLcwQlnXByKR1Fo7UnE6gQAbx-JfYJZ&si=8IXca7wJvx2J5LOJ)**
+- [🎥 Modern Software Engineering Youtube Channel](https://www.youtube.com/@ModernSoftwareEngineeringYT)
+- [📚 Why Developers Don't Write Unit Tests](https://www.linkedin.com/pulse/why-developers-dont-write-unit-tests-justin-bannister/)
+- [📚 The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [📚 Rethinking the Testing Pyramid](https://www.wiremock.io/post/rethinking-the-testing-pyramid)
+- [📚 Test Driven Development](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 
 ### Arabic Resources
 
-- **[🎥 يعني ايه Unit testing وليه كل الدفيلوبرز لازم يتعلموا يكتبوه - سيمي كولون | SemiColon](https://youtu.be/B9rLLcVQfpI?si=JJxWiYOWm16mjSsW)**
-- **[🎥 ازاي بنختبر السوفتوير؟ | Software Testing](https://youtu.be/9NcvjKX-ySk?si=KXwWbIqWQ945-pca)**
-- **[🎥 Software Testing Course in Arabic - بالعربي software testing شرح](https://youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4&si=CnLIMCcfRaxAWGb0)**
-- **[🎥 Mastering Unit Testing](https://youtube.com/playlist?list=PLtxOBbrOOPH6pNpU-I4TJ15DrwU-hxNIz&si=PdRxKHpzrr-X3iGq)**
+- [🎥 يعني ايه Unit testing وليه كل الدفيلوبرز لازم يتعلموا يكتبوه - سيمي كولون | SemiColon](https://youtu.be/B9rLLcVQfpI?si=JJxWiYOWm16mjSsW)
+- [🎥 ازاي بنختبر السوفتوير؟ | Software Testing](https://youtu.be/9NcvjKX-ySk?si=KXwWbIqWQ945-pca)
+- [🎥 Software Testing Course in Arabic - بالعربي software testing شرح by Tresmerge](https://youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4&si=CnLIMCcfRaxAWGb0)
+- [🎥 Mastering Unit Testing by Yallacode](https://youtube.com/playlist?list=PLtxOBbrOOPH6pNpU-I4TJ15DrwU-hxNIz&si=PdRxKHpzrr-X3iGq)

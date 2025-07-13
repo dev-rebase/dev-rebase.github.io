@@ -37,14 +37,14 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Learning by Doing',
+      label: 'Learn by Doing',
       items: [
         'open-source',
       ],
     },
     {
       type: 'category',
-      label: "Learning from Others",
+      label: "Learn from Others",
       items: [
         'mentorship',
         'global-communities',

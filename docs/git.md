@@ -41,40 +41,21 @@ Git is built for collaboration. These practices are key to working effectively w
 
 ### English Resources
 
+- [🎥 Git Tutorial by IBM Technology](https://www.youtube.com/watch?v=wpISo9TNjfU&ab_channel=IBMTechnology)
+- [🎥 Git & GitHub for Beginners by Mosh](https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh)
+- [📚 Git & GitHub Roadmap](https://roadmap.sh/git-github)
+
 ### Arabic Resources
 
-- [ماهو Github جيت هب؟ وما أهميته لكل مبرمج؟](https://youtu.be/PsXDzwBW2Ls?si=hK_rA1NGhTdJc533)
+- [🎥 ماهو Github جيت هب؟ وما أهميته لكل مبرمج؟](https://youtu.be/PsXDzwBW2Ls?si=hK_rA1NGhTdJc533)
+- [🎥 كورس تعلم Git & GitHub في ساعة](https://youtu.be/fDkR0TDR9dI?si=Y2ZPKHev0nnWd-ur)
+- [🎥 الدورة الأساسية في git by أكاديمية ترميز](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-)
+- [🎥 Git Tutorials by Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+- [🎥 Mastering Git by Yallacode](https://youtube.com/playlist?list=PLtxOBbrOOPH4zeJLOdRNrP4pGft2IfMgo&si=FUgSZpw76wrnNZbM)
+- [📚 Best Practices for Writing Clean Commits in Git (eqraatech.com)](https://eqraatech.com/best-practices-for-writing-clean-commits-in-git/)
+- [📚 Git Commit Message Cheatsheet (eqraatech.com)](https://eqraatech.com/git-commit-message-cheatsheet/)
 
-## 🎥 Video Resources
+### Interactive Tutorials
 
-2. [Git for Beginners](https://youtu.be/fDkR0TDR9dI?si=Y2ZPKHev0nnWd-ur)
-3. [Git Tutorial by IBM Technology](https://www.youtube.com/watch?v=wpISo9TNjfU&ab_channel=IBMTechnology)
-4. [Git & GitHub for Beginners by Mosh](https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh)
-5. [Another Git Video](https://youtu.be/HkdAHXoRtos?si=h2c6u1YUTnaIAkjT)
-
----
-
-## 📚 YouTube Playlists
-
-6. [Git & GitHub Tutorials (Playlist 1)](https://youtube.com/playlist?list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE&si=gTyfVKZ9jgbW_wN0)
-7. [Git & GitHub Tutorials (Playlist 2)](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-)
-8. [Git Tutorials by Elzero Web School](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
-
----
-
-## 📝 Readable Resources
-
-9. [How to Use GitHub Website (ar-wp.com)](https://www.ar-wp.com/how-to-use-github-website/)
-10. [What is Git? Quick Tutorial for Beginners (pyarabic.com)](https://pyarabic.com/what-is-git-quick-tutorial-for-beginners/)
-11. [Best Practices for Writing Clean Commits in Git (eqraatech.com)](https://eqraatech.com/best-practices-for-writing-clean-commits-in-git/)
-12. [Git Commit Message Cheatsheet (eqraatech.com)](https://eqraatech.com/git-commit-message-cheatsheet/)
-13. [Git & GitHub Roadmap](https://roadmap.sh/git-github)
-
----
-
-## 🕹️ Interactive Tutorials
-
-14. [Oh My Git!](https://ohmygit.org/)
-15. [Learn Git Branching](https://learngitbranching.js.org/)
-
-[Mastering Git](https://youtube.com/playlist?list=PLtxOBbrOOPH4zeJLOdRNrP4pGft2IfMgo&si=FUgSZpw76wrnNZbM)
+- [Oh My Git!](https://ohmygit.org/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
