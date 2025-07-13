@@ -43,7 +43,7 @@ A great starting point is using modern deployment platforms like **[Netlify](htt
 - They teach you the important, modern workflow of deploying directly from a Git repository.
 - They handle the complex parts for you, allowing you to get your projects online quickly and build confidence.
 
-However, it's important to know that these platforms intentionally **hide the details**. As you advance, you must look inside this "black box." A good developer should eventually understand the concepts that these platforms manage automatically:
+However, it's important to know that these platforms intentionally **hide the details**. As you advance, you must look inside this "black box". A good developer should eventually understand the concepts that these platforms manage automatically:
 
 - What a Web Server is (like [Nginx](https://nginx.org/) or [Apache](https://httpd.apache.org/)) and how it handles requests.
 - The basics of a Linux server environment.
@@ -54,7 +54,7 @@ Think of it as a learning journey. Start with the automated platforms to master 
 
 ### The Backend & APIs
 
-For many client-side developers, the backend can feel like a black box. You send a request and get a response, but what happens in between? Understanding the server's inner workings is a superpower. It helps you debug issues faster, work better with others, and build stronger applications without having to "wait for the backend team."
+For many client-side developers, the backend can feel like a black box. You send a request and get a response, but what happens in between? Understanding the server's inner workings is a superpower. It helps you debug issues faster, work better with others, and build stronger applications without having to "wait for the backend team".
 
 The relationship starts with the **client-server architecture**. Your frontend or mobile app is the **client**, responsible for the user interface. The **backend** is the main server that handles the heavy lifting. This separation is powerful because it allows multiple different clients (web, iOS, Android) to connect to a single, consistent source of logic and data.
 
