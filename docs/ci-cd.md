@@ -10,7 +10,7 @@ Backend developers especially benefit from mastering CI/CD since they often mana
 
 - **Continuous Deployment (also CD):** The practice of automatically deploying code to production once it passes all previous stages. No manual intervention is required.
 
-## Why It Matters
+## Why it matters
 
 Owning your part in CI/CD isn't just about following company processes — it directly improves your day-to-day experience.
 
