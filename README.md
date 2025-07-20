@@ -1,10 +1,10 @@
-# Dev Rebase
+# Dev-Rebase
 
-[Dev Rebase](https://dev-rebase.github.io) is a collection of concise guides that help developers bridge the gap between local experience and the expectations of international or remote tech roles. It focuses on practical knowledge around tools, workflows, and industry-standard practices used in modern software teams.
+[Dev-Rebase](https://dev-rebase.github.io) is a collection of concise guides that help developers bridge the gap between local experience and the expectations of international or remote tech roles. It focuses on practical knowledge around tools, workflows, and industry-standard practices used in modern software teams.
 
 ## What Inspired This Project
 
-Many developers — especially those from underrepresented regions or local markets — face challenges not because of a lack of talent, but due to limited exposure to the practices commonly expected in global tech environments. Dev Rebase was created to address this challenge.
+Many developers — especially those from underrepresented regions or local markets — face challenges not because of a lack of talent, but due to limited exposure to the practices commonly expected in global tech environments. Dev-Rebase was created to address this challenge.
 
 The guides cover essential topics and skills that can make a meaningful difference when preparing for remote opportunities or job relocation:
 

@@ -5,9 +5,9 @@ slug: /
 
 # Getting Started
 
-## What is Dev Rebase?
+## What is Dev-Rebase?
 
-Dev Rebase is a collection of short guides designed to help developers learn about modern software development practices. These guides cover essential topics that are commonly expected in today's tech industry, especially when working at international companies or applying for remote positions.
+Dev-Rebase is a collection of short guides designed to help developers learn about modern software development practices. These guides cover essential topics that are commonly expected in today's tech industry, especially when working at international companies or applying for remote positions.
 
 ## Why I created this website?
 
