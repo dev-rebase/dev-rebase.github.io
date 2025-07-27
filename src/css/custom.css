@@ -4,27 +4,46 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/*
+  You can override the default Infima variables here.
+  This is the light theme configuration.
+*/
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* Infima primary color */
+  --ifm-color-primary: #457b9d;
+  --ifm-color-primary-dark: #3d6d8b;
+  --ifm-color-primary-darker: #3a6682;
+  --ifm-color-primary-darkest: #2e5066;
+  --ifm-color-primary-light: #4d89b1;
+  --ifm-color-primary-lighter: #5491ba;
+  --ifm-color-primary-lightest: #69a3c9;
+
+  /* Code block styling */
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
+
+  /* Custom palette colors */
+  --custom-red-pantone: #e63946;
+  --custom-honeydew: #f1faee;
+  --custom-non-photo-blue: #a8dadc;
+  --custom-cerulean: #457b9d;
+  --custom-berkeley-blue: #1d3557;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/*
+  For readability concerns, you should choose a lighter palette in dark mode.
+  This is the dark theme configuration.
+*/
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  /* Infima primary color - using the lighter blue for contrast */
+  --ifm-color-primary: #a8dadc;
+  --ifm-color-primary-dark: #96c4c6;
+  --ifm-color-primary-darker: #8fc0c2;
+  --ifm-color-primary-darkest: #73a7a9;
+  --ifm-color-primary-light: #badde0;
+  --ifm-color-primary-lighter: #c1e1e3;
+  --ifm-color-primary-lightest: #d4e9eb;
+
+  /* Code block styling */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }

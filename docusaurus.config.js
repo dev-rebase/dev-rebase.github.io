@@ -66,12 +66,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/dev-rebase-social-card.png',
       navbar: {
         title: 'Dev-Rebase',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Dev-Rebase Logo',
+          src: 'img/rebase-icon-red.png',
         },
         items: [
           {
