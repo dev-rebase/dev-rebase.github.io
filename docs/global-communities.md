@@ -1,3 +1,7 @@
+---
+description: Join tech communities to network, learn, and discover international opportunities.
+---
+
 # Global Communities
 
 Building a successful tech career is not just about your technical skills—it's about connecting with the right communities that can guide you, support you, and open doors to opportunities you might never find on your own. By joining global tech communities, you gain access to resources that can help you grow professionally, find international opportunities, and connect with others who share similar experiences and goals.

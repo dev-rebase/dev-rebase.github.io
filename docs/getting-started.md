@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
+description: Rebase your skills with modern software development practices.
 ---
 
 # Getting Started

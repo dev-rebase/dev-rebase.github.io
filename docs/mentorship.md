@@ -1,3 +1,7 @@
+---
+description: Find mentors and build relationships that accelerate your professional growth.
+---
+
 # Mentorship
 
 You have worked hard on tutorials, built your own projects, and maybe even got your first job as a developer. But sometimes you face problems that are very hard to solve by yourself. Maybe you are confused about how to make big decisions in your code, how to grow in your career, or what to learn next. Having someone with more experience to guide you can really help. In today's fast-changing tech world, having a mentor is not just useful—it can be the difference between growing as a developer or feeling stuck and alone.

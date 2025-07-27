@@ -1,3 +1,7 @@
+---
+description: Understand how web applications communicate over networks and handle HTTP requests.
+---
+
 # Web
 
 You've always focused on writing good code. You build beautiful components, create smooth user experiences, or develop clean APIs. Your current job keeps things simple: you build features, someone else handles deployment, and if there are network issues, the backend team deals with them.

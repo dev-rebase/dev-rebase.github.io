@@ -1,3 +1,7 @@
+---
+description: Automate testing and deployment with continuous integration and delivery pipelines.
+---
+
 # CI/CD
 
 You know about CI/CD pipelines, but your current team does manual deployments. One person runs tests, builds the app, and pushes to production. It's slow but manageable for your small team. But as teams grow and deployment frequency increases, manual processes become too difficult and lead to mistakes. You realize that while manual deployments work for small teams, most professional environments expect automated pipelines.

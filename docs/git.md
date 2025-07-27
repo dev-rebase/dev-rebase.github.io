@@ -1,3 +1,7 @@
+---
+description: Learn Git workflows and collaboration practices used in professional development teams.
+---
+
 # Git
 
 You know Git exists, you've even used basic commands, but your current team is small and everyone just pushes to main. No branches, no pull requests, no complex workflows. It works fine for your current project. But the moment you join a larger team or work on a more complex project, proper Git workflows become essential for preventing problems and maintaining code quality. You realize that while simple Git works for small teams, understanding proper Git workflows is essential for most professional development environments. It's time to master Git properly.

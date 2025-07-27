@@ -1,3 +1,7 @@
+---
+description: Learn automated testing practices to write reliable code and catch bugs early.
+---
+
 # Testing
 
 You've heard about unit tests, integration tests, and TDD, but your current company has a dedicated QA team that handles all testing. You write code, they test it, and that system works fine. But as applications grow more complex and teams move faster, relying only on manual testing becomes a bottleneck that slows everyone down. You realize that while you can rely on QA teams in some companies, most modern development roles expect you to test your own code. It's time to start testing your own code.

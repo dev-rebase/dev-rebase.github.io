@@ -1,3 +1,7 @@
+---
+description: Use Docker and containers to create consistent development and deployment environments.
+---
+
 # Containerization
 
 You've heard about Docker and containers, but your current setup is simple—you develop locally and deploy to a single server that the DevOps person manages. It works fine for your current project. But as soon as you need to scale, work with multiple environments, or collaborate with larger teams, environment consistency becomes important. You realize that while you can avoid containers in simple environments, most modern development teams use them. It's time to learn containerization.

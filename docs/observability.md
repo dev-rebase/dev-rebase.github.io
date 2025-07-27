@@ -1,3 +1,7 @@
+---
+description: Monitor and debug production applications using logging, metrics, and tracing.
+---
+
 # Observability
 
 You've heard about monitoring, logging, and metrics, but your current application is simple enough that you can usually figure out problems by looking at the code or asking users what went wrong. But as your application serves more users and becomes more complex, debugging production issues without proper observability becomes nearly impossible. You realize that while you can manage simple applications without observability, most professional environments require it. It's time to make your applications observable.

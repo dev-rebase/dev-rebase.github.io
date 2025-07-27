@@ -1,3 +1,7 @@
+---
+description: Contribute to open source projects to build skills and connect with global developers.
+---
+
 # Open Source
 
 Contributing to open source is one of the best ways to grow as a developer, build your reputation, and connect with developers around the world. Open source gives you a way to show your skills to international employers and build professional relationships across borders.
