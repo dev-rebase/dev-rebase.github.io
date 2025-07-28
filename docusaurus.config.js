@@ -42,6 +42,7 @@ const config = {
     {
       src: 'https://scripts.simpleanalyticscdn.com/latest.js',
       async: true,
+      'data-collect-dnt': 'true',
     },
   ],
 
