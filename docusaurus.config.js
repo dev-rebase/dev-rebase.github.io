@@ -11,7 +11,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Dev-Rebase',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Rebase your skills with modern software development practices',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -61,7 +61,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          routeBasePath: '/',
+          routeBasePath: '/docs',
         },
         blog: false,
         theme: {
@@ -80,7 +80,7 @@ const config = {
         title: 'Dev-Rebase',
         logo: {
           alt: 'Dev-Rebase Logo',
-          src: 'img/rebase-icon-red.png',
+          src: 'img/logo.svg',
         },
         items: [
           {

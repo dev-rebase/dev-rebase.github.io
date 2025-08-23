@@ -39,24 +39,24 @@ The topics are presented in an order that makes logical sense, but **you can rea
 
 **Core Skills** - Essential technical skills that every developer needs to work effectively in modern development environments.
 
-- [Web Development](/web)
-- [Git](/git)
-- [Testing](/testing)
+- [Web Development](/docs/web)
+- [Git](/docs/git)
+- [Testing](/docs/testing)
 
 **Deployment & Production** - Tools and practices for deploying applications and maintaining them in production environments.
 
-- [Containerization](/containerization)
-- [CI/CD](/ci-cd)
-- [Observability](/observability)
+- [Containerization](/docs/containerization)
+- [CI/CD](/docs/ci-cd)
+- [Observability](/docs/observability)
 
 **Learn by Doing** - Practical ways to apply your skills and build real-world experience while contributing to the developer community.
 
-- [Open Source](/open-source)
+- [Open Source](/docs/open-source)
 
 **Learn from Others** - Resources for connecting with experienced developers and communities that can accelerate your growth.
 
-- [Mentorship](/mentorship)
-- [Global Communities](/global-communities)
+- [Mentorship](/docs/mentorship)
+- [Global Communities](/docs/global-communities)
 
 ## How to contribute?
 
